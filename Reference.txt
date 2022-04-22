@@ -1,0 +1,7 @@
+Airport Data (apt.dat) is original by BG.
+
+https://gateway.x-plane.com/airports/RCTP/show
+
+This content is extended and modified following RCTP Taiwan Taoyuan International Airport 1.91.
+
+https://forums.x-plane.org/index.php?/files/file/35212-rctp-taiwan-taoyuan-international-airport/
